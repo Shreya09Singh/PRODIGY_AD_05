@@ -9,6 +9,8 @@ Open Links: Allows users to open URLs directly from the scanned result.
 User-Friendly Interface: Clean and intuitive design for ease of use.
 Screenshots
 ![Qr](https://github.com/user-attachments/assets/e557f9c9-4a01-40b3-a31f-f6e02e81ea75)
+
+
 How the QR Code Scanner Works
 The QR code scanner app processes QR codes and provides actionable results. Here’s a breakdown of its functionality:
 
